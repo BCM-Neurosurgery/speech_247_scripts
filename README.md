@@ -1,6 +1,6 @@
 # speech_247_scripts
 
-Analysis code for **"Estimation of neuronal tuning for word meaning from passively recorded naturalistic speech"** (Ismail et al., _Nature_, in submission).
+Analysis code for **"Estimation of neuronal tuning for word meaning from passively recorded naturalistic speech"** (Ismail et al., _Nature Machine Intelligence_, in submission).
 
 This repository contains all notebooks and scripts used to process 24/7 EMU recordings, build encoding and decoding models, benchmark against ground-truth datasets, and generate the paper's six main figures.
 
